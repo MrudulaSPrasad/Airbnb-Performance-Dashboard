@@ -3,6 +3,8 @@
 ## 📚 About Data
 
 Data source: https://mavenanalytics.io/data-playground/airbnb-listings-reviews 
+
+
 This project analyzes Airbnb listing data across multiple global cities, focusing on pricing, customer satisfaction, host performance, and market distribution.
 
 The dataset includes key attributes such as:
