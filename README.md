@@ -2,6 +2,7 @@
 
 ## 📚 About Data
 
+Data source: https://mavenanalytics.io/data-playground/airbnb-listings-reviews 
 This project analyzes Airbnb listing data across multiple global cities, focusing on pricing, customer satisfaction, host performance, and market distribution.
 
 The dataset includes key attributes such as:
@@ -121,8 +122,8 @@ Developed an interactive **Power BI dashboard** with the following views:
 
 ## 📍 Files in Repository
 
-* `Airbnb_Dashboard.pbix` → Power BI dashboard file
-* `listings.csv` → Raw dataset
+* `Airbnb_Dashboard.pbip` → Power BI dashboard file
+* `listings_data_dictionary.csv` → Data dictionary for the Raw dataset
 * `README.md` → Project documentation
 
 ---
